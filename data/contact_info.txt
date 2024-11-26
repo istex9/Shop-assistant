@@ -1,0 +1,33 @@
+### Kapcsolattartási Információk
+
+**Ügyfélszolgálat**
+- **Telefon:** +36 1 234 5678
+- **E-mail:** [ugyfelszolgalat@xyzkft.hu](mailto:ugyfelszolgalat@xyzkft.hu)
+- **Munkaidő:** Hétfő-Péntek, 9:00-17:00
+
+**Marketing Asszisztens**
+- **Telefon:** +36 1 876 5432
+- **E-mail:** [marketing@xyzkft.hu](mailto:marketing@xyzkft.hu)
+- **Munkaidő:** Hétfő-Péntek, 10:00-18:00
+
+**Rendszergazda**
+- **Telefon:** +36 1 345 6789
+- **E-mail:** [rendszergazda@xyzkft.hu](mailto:rendszergazda@xyzkft.hu)
+- **Munkaidő:** Hétfő-Péntek, 8:00-16:00
+
+**Cím**
+XYZ Kft.
+1234 Budapest, Minta utca 12.
+Magyarország
+
+**Weboldal**
+- **URL:** [www.xyzkft.hu](http://www.xyzkft.hu)
+- **Webhely Támogatás:** [support@xyzkft.hu](mailto:support@xyzkft.hu)
+
+**Közösségi Média**
+- **Facebook:** [facebook.com/xyzkft](http://facebook.com/xyzkft)
+- **Twitter:** [twitter.com/xyzkft](http://twitter.com/xyzkft)
+- **LinkedIn:** [linkedin.com/company/xyzkft](http://linkedin.com/company/xyzkft)
+
+**Általános Információk**
+Bármilyen kérdésed vagy problémád van, kérjük, fordulj hozzánk a fenti elérhetőségeken keresztül. Ügyfélszolgálatunk készen áll, hogy segítsen neked a szolgáltatásaink használatával kapcsolatos minden kérdésedben.

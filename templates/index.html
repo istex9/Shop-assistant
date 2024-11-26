@@ -1,0 +1,24 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot Asszisztens</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Chatbot Asszisztens</h1>
+        <div id="chat-box" class="chat-box">
+            <!-- Chat üzenetek itt jelennek meg -->
+        </div>
+        <form id="chat-form" class="chat-form">
+            <input type="text" id="user-input" placeholder="Írd be az üzeneted..." autocomplete="off" required>
+            <button type="submit">Küldés</button>
+        </form>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

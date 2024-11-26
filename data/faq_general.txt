@@ -1,0 +1,22 @@
+### Gyakran Ismételt Kérdések (Általános)
+
+**1. Mi a vállalat neve és mivel foglalkozik?**
+Vállalatunk neve XYZ Kft., és főként informatikai szolgáltatásokat nyújtunk, beleértve a szoftverfejlesztést, rendszerintegrációt és IT tanácsadást.
+
+**2. Hogyan regisztrálhatok a szolgáltatásaitokra?**
+A regisztrációhoz látogass el a weboldalunkra, és kattints a "Regisztráció" gombra. Kövesd az utasításokat a fiók létrehozásához.
+
+**3. Milyen fizetési módokat fogadtok el?**
+Elfogadjuk a bankkártyás fizetést, PayPal-t, és átutalást is.
+
+**4. Milyen támogatási lehetőségeitek vannak?**
+24/7 ügyfélszolgálattal rendelkezünk, amely elérhető telefonon, e-mailben és élő chat-en keresztül.
+
+**5. Hogyan módosíthatom a fiókbeállításaimat?**
+Bejelentkezés után látogass el a "Fiókbeállítások" menüpontra, ahol módosíthatod személyes adataidat, jelszavadat és egyéb beállításokat.
+
+**6. Van próbaverziótok?**
+Igen, ingyenes próbaverziót kínálunk a szolgáltatásaink kipróbálásához. Regisztrálj, és a fiókodban aktiválhatod a próbaverziót.
+
+**7. Milyen nyelveken érhetőek el a szolgáltatásaitok?**
+Szolgáltatásainkat magyarul és angolul kínáljuk, a felhasználói felület támogatja a többnyelvűséget.

@@ -1,0 +1,47 @@
+### Adatvédelmi Irányelvek
+
+**1. Bevezetés**
+XYZ Kft. elkötelezett a személyes adatok védelme iránt. Ez az adatvédelmi irányelv leírja, hogyan gyűjtjük, használjuk, és védjük a felhasználóink személyes adatait.
+
+**2. Adatgyűjtés**
+Szolgáltatásaink használata során a következő személyes adatokat gyűjthetjük:
+- Név
+- E-mail cím
+- Telefonszám
+- Fizetési információk
+- IP cím és böngészési adatok
+
+**3. Adatfelhasználás**
+Gyűjtött adatainkat a következő célokra használjuk:
+- Szolgáltatásaink biztosítása és fejlesztése
+- Kommunikáció a felhasználókkal
+- Fizetési tranzakciók feldolgozása
+- Marketing és promóciós anyagok küldése (ha a felhasználó beleegyezését adta)
+
+**4. Adatmegosztás**
+Nem adjuk át személyes adataidat harmadik feleknek, kivéve:
+- Jogszabályi kötelezettségek teljesítése érdekében
+- Szolgáltatásaink nyújtásához szükséges harmadik fél szolgáltatók számára (pl. fizetési processzorok)
+
+**5. Adatbiztonság**
+Minden szükséges technikai és szervezési intézkedést megteszünk a személyes adatok védelme érdekében a jogosulatlan hozzáférés, változtatás, nyilvánosságra hozatal vagy megsemmisítés ellen.
+
+**6. Adattárolás**
+Személyes adataidat csak addig tároljuk, ameddig szükséges a fent leírt célok eléréséhez, vagy ameddig jogi kötelezettségünk megköveteli.
+
+**7. Jogok**
+Felhasználóinknak joga van:
+- Hozzáférni a személyes adataikhoz
+- Kérni azok helyesbítését
+- Kérni azok törlését
+- Korlátozni az adatfeldolgozást
+- Elleni tiltakozni az adatfeldolgozás ellen
+
+**8. Cookie-k és Hasonló Technológiák**
+Weboldalunk használ cookie-kat és hasonló technológiákat a felhasználói élmény javítása és a szolgáltatások optimalizálása érdekében. A böngésződ beállításaiban kezelheted a cookie-k használatát.
+
+**9. Kapcsolat**
+Ha bármilyen kérdésed van az adatvédelmi irányelveinkkel kapcsolatban, kérjük, lépj velünk kapcsolatba az [privacy@xyzkft.hu](mailto:privacy@xyzkft.hu) e-mail címen.
+
+**10. Irányelv Változtatása**
+XYZ Kft. fenntartja a jogot az adatvédelmi irányelvek módosítására. A változtatásokat a weboldalunkon tesszük közzé, és a frissített irányelv azonnal hatályba lép.
